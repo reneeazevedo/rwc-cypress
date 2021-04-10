@@ -6,5 +6,10 @@
         "password":"101827Rm@"
 
     },
-    "apiUrl":"https://conduit.productionready.io/api/"
+    "apiUrl":"https://conduit.productionready.io/api/",
+    "reporter": "junit",
+    "reporterOptions": {
+        "mochaFile": "cypress/reports/junit-[hash].xml"
+    }
+    
 }
