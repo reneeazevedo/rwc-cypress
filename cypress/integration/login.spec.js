@@ -6,6 +6,6 @@ context('Login', { browser: '!firefox' }, () => {
         login.acessarLogin()
         login.preencherFormulario()
         login.submeterFomulario()
-
+        login.validarLoginComSucesso()
     })
 });

@@ -1,6 +1,6 @@
 /// <reference types="Cypress" />
 import articles from '../support/pages/articles'
-import routes from '../support/routes'
+
 context('Publicação', () => {
 
     beforeEach(() => {
@@ -9,7 +9,7 @@ context('Publicação', () => {
         articles.acessarFomularioDeNovaPublicacao()
     })
 
-    it('Caria uma nova publicação', () => {
+    it('Criar uma nova publicação', () => {
         articles.preencherFomulario()
         articles.submeterPublicacao()
         articles.verificarSePublicacaoFoiCriadaComSucesso()

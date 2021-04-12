@@ -1,15 +1,14 @@
 {
     "$schema": "https://raw.githubusercontent.com/cypress-io/cypress/develop/cli/schema/cypress.schema.json",
     "baseUrl": "http://demo.realworld.io/#/",
-    "user":{
-        "email":"renee.mourasys@gmail.com",
-        "password":"101827Rm@"
-
+    "apiUrl": "https://conduit.productionready.io/api/",
+    "user": {
+        "name": "reneemoura",
+        "email": "renee.mourasys@gmail.com",
+        "password": "101827Rm@"
     },
-    "apiUrl":"https://conduit.productionready.io/api/",
     "reporter": "junit",
     "reporterOptions": {
         "mochaFile": "cypress/reports/junit-[hash].xml"
     }
-    
 }
