@@ -16,7 +16,7 @@ class Login {
         cy.get(el.buttonSubmit).click()
     }
 
-    validarLoginComSucesso() {
+    verificarSeLoginComSucesso() {
         //validações reposta API
         cy.wait(`@${routes.as.postUsersLogin}`).then((postUsersLoginResponse) => {
             expect(postUsersLoginResponse.status).to.eq(200)
