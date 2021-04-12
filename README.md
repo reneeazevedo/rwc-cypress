@@ -4,7 +4,8 @@
 
 # Vídeo Execução local dos testes
 
-![execucao local](https://user-images.githubusercontent.com/52136006/114475425-a47a9f80-9bce-11eb-89eb-3e62410c64bd.gif)
+![execucao-local](https://user-images.githubusercontent.com/52136006/114475677-12bf6200-9bcf-11eb-8350-463d2c0b3f9b.gif)
+
 
 
 
