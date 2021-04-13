@@ -1,3 +1,8 @@
+# Link Pipeline
+
+https://reneemetrics.visualstudio.com/Agilizei%20Bootcamp%20N%C3%ADvel%202/_build
+
+
 # Vídeo Execução dos teste na pipeline Azure
 
 
