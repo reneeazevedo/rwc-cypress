@@ -1,6 +1,8 @@
 # Vídeo Execução dos teste na pipeline Azure
 
-![LWR_Recording (1)](https://user-images.githubusercontent.com/52136006/114472078-01bf2280-9bc8-11eb-9c78-5d09e2beed91.gif)
+
+![LWR_Recording-_1_-_1_-_1_](https://user-images.githubusercontent.com/52136006/114477417-7e56fe80-9bd2-11eb-8d55-cb6e6915c037.gif)
+
 
 # Vídeo Execução local dos testes
 
